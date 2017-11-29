@@ -1,0 +1,19 @@
+body  {
+
+    background-color: #777
+}
+
+header  {
+
+    height: 10%;
+    width: 70%;
+    background: white;
+    text-align: center;
+    padding: 10px;
+
+}
+
+#wrapper  {
+
+    align-self: auto;
+}
