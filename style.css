@@ -6,27 +6,29 @@ body  {
 header  {
 
     height: 10%;
-    width: 70%;
+    width: 95%;
     background: white;
     text-align: center;
     padding: 10px;
 
 }
 
-#wrapper  {
-
-    align-self: auto;
-}
 
 #footer  {
 
     height: 10%;
-    width: 70%;
+    width: 95%;
     background: white;
     padding: 10px;
-    text-align: center;
+    text-align: center; 
     
-}
+        clear: both;			
+      
+    			
+      }
+
+
+     
 
 #aside1 {
 
@@ -35,4 +37,13 @@ header  {
     background: white;
     float: right;
     text-align: center;
+    
+}
+
+#nav1  {
+
+    height: 50px;
+    width: 95%;
+    background: white;
+    padding: 10px;
 }
