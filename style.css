@@ -50,12 +50,12 @@ header  {
       #section1  {
         
            
-            background: white;
-            padding: 10px;
+            background: blue;
+            width: 30%;
+            height: 250px;
             text-align: center; 
-            width: 	40%;
-                
-                		
+            
+             		
               float: left;
               margin: 10px;
                         
@@ -64,11 +64,11 @@ header  {
              #article1  {
                 
                     clear: both;
-                    background: white;
-                    padding: 10px;
+                    background: red;
+                    padding: 20px;
                     text-align: center; 
                     width: 	40%;
-                        			
+                     			
                       
                      float: left; 
                      margin:   10px;        
@@ -94,4 +94,10 @@ header  {
     padding: 10px;
     margin: 10px;
     text-align: center;
+}
+
+
+#h1 {
+
+    background: greenyellow
 }
