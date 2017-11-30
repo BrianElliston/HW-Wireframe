@@ -5,45 +5,93 @@ body  {
 
 header  {
 
-    height: 10%;
-    width: 95%;
+    
     background: white;
     text-align: center;
     padding: 10px;
-
+    margin: 10px;
 }
 
 
 #footer  {
 
-    height: 10%;
-    width: 95%;
+    clear: both;
     background: white;
     padding: 10px;
+    margin: 10px;
     text-align: center; 
     
-        clear: both;			
+        			
       
     			
       }
 
 
+
+#paragraph1  {
+    
+       
+        background: white;
+        padding: 10px;
+        text-align: center; 
+        
+            			
+          
+                    
+          }
+    
+
      
+
+
+
+
+
+      #section1  {
+        
+           
+            background: white;
+            padding: 10px;
+            text-align: center; 
+            width: 	40%;
+                
+                		
+              float: left;
+              margin: 10px;
+                        
+              }
+
+             #article1  {
+                
+                    clear: both;
+                    background: white;
+                    padding: 10px;
+                    text-align: center; 
+                    width: 	40%;
+                        			
+                      
+                     float: left; 
+                     margin:   10px;        
+                      }
+
 
 #aside1 {
 
+    clear: both;
     height: 300px;
     width: 400px;
     background: white;
     float: right;
     text-align: center;
-    
+    float: right;
+    margin: 10px;
 }
 
 #nav1  {
 
-    height: 50px;
-    width: 95%;
+    clear: both;
     background: white;
     padding: 10px;
+    margin: 10px;
+    text-align: center;
 }
